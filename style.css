@@ -4,6 +4,11 @@ body {
     font-family: "Quicksand", sans-serif;
 }
 
+.header{
+  font-weight: bold;
+  font-size: large;
+}
+
 .icon {
   max-width: 20%;
 }
