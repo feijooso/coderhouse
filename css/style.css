@@ -1,0 +1,69 @@
+body {
+  background-color: #F3EBDD;
+  font-family: "Quicksand", sans-serif;
+  color: #7D5642; }
+
+.header {
+  font-weight: bold;
+  font-size: large; }
+
+.text-footer {
+  margin-left: 40%; }
+
+.icon-footer {
+  max-width: 2%; }
+
+.footer-container {
+  margin-bottom: 2rem; }
+
+.tienda-intro {
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
+  .tienda-intro h1 {
+    font-family: "Rubik", sans-serif;
+    font-size: 3rem; }
+
+.remodelaciones-intro {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center; }
+  .remodelaciones-intro h1 {
+    font-family: "Rubik", sans-serif;
+    font-size: 3rem; }
+  .remodelaciones-intro p {
+    font-size: 1.6rem; }
+
+.beneficios {
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
+  .beneficios h1 {
+    font-family: "Rubik", sans-serif;
+    font-size: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem; }
+  .beneficios p {
+    font-size: 1.2rem;
+    text-align: justify; }
+
+.intro-contentas {
+  font-family: "Rubik", sans-serif;
+  padding: 2rem;
+  text-align: center; }
+
+.intro-contacto {
+  font-family: "Rubik", sans-serif;
+  padding: 2rem;
+  text-align: center; }
+
+.intro-tienda {
+  font-family: "Rubik", sans-serif;
+  padding: 2rem;
+  text-align: center; }
+
+.bici {
+  margin-bottom: 5px; }
+
+.formulario-container {
+  margin: 3rem; }
+
+/*# sourceMappingURL=style.css.map */

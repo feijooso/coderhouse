@@ -1,0 +1,95 @@
+$bg-color: #F3EBDD;
+$font-color: #7D5642;
+$font-body: "Quicksand", sans-serif;
+$padding-size-intro: 2rem;
+$font-title: "Rubik", sans-serif;
+
+body {
+    background-color: $bg-color;
+    font-family: $font-body;
+    color: $font-color;
+}
+
+.header {
+    font-weight: bold;
+    font-size: large;
+}
+
+.text-footer {
+    margin-left: 40%;
+}
+  
+.icon-footer {
+    max-width: 2%;
+}
+  
+.footer-container {
+    margin-bottom: 2rem;
+}
+
+.tienda-intro {
+    padding-top: $padding-size-intro;
+    padding-bottom: $padding-size-intro;
+    h1 {
+        font-family: $font-title;
+        font-size: 3rem;
+    }
+
+}
+
+.remodelaciones-intro {
+    padding-top: $padding-size-intro;
+    padding-bottom: $padding-size-intro;
+    text-align: center;
+    h1 {
+        font-family: $font-title;
+        font-size: 3rem;
+    }
+    p {
+        font-size: 1.6rem;
+    }
+}
+
+.beneficios {
+    padding-top: $padding-size-intro;
+    padding-bottom: $padding-size-intro;
+    h1 {
+        font-family: $font-title;
+        font-size: 3rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    p {
+        font-size: 1.2rem;
+        text-align: justify;
+
+    }
+
+}
+
+.intro-contentas {
+    font-family: $font-title;
+    padding: $padding-size-intro;
+    text-align: center;
+}
+
+.intro-contacto {
+    font-family: $font-title;
+    padding: $padding-size-intro;
+    text-align: center;
+    
+}
+
+.intro-tienda {
+    font-family: $font-title;
+    padding: $padding-size-intro;
+    text-align: center;
+}
+
+.bici {
+    margin-bottom: 5px;
+}
+
+.formulario-container {
+    margin: 3rem; 
+}  
