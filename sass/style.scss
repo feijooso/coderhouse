@@ -10,6 +10,10 @@ body {
     color: $font-color;
 }
 
+.icon {
+    max-width: 20%;
+  }
+
 .header {
     font-weight: bold;
     font-size: large;
@@ -33,6 +37,9 @@ body {
     h1 {
         font-family: $font-title;
         font-size: 3rem;
+    }
+    p {
+        font-size: 1.2rem;
     }
 
 }

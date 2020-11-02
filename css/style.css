@@ -3,6 +3,9 @@ body {
   font-family: "Quicksand", sans-serif;
   color: #7D5642; }
 
+.icon {
+  max-width: 20%; }
+
 .header {
   font-weight: bold;
   font-size: large; }
@@ -22,6 +25,8 @@ body {
   .tienda-intro h1 {
     font-family: "Rubik", sans-serif;
     font-size: 3rem; }
+  .tienda-intro p {
+    font-size: 1.2rem; }
 
 .remodelaciones-intro {
   padding-top: 2rem;
